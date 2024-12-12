@@ -1,7 +1,7 @@
 // Daftar bahasa pemrograman yang akan ditebak
 var jawaban = [
     "konsultasi",
-    "krtikel",
+    "artikel",
     "remote",
     "UIUX",
     "paid",
@@ -15,7 +15,7 @@ var jawaban = [
   // Daftar pertanyaan untuk masing-masing bahasa pemrograman
   var pertanyaan = {
     konsultasi: "Fitur apa yang membantu pengguna untuk berdiskusi langsung dengan pakar?",
-    krtikel: "Jenis konten apa yang tersedia di aplikasi untuk pengembangan karir?",
+    artikel: "Jenis konten apa yang tersedia di aplikasi untuk pengembangan karir?",
     kemote: "Apa istilah lain untuk 'bekerja dari rumah'?",
     UIUX: "Apa pekerjaan yang fokus pada desain pengalaman pengguna?",
     paid: "Jenis magang apa yang sering dicari mahasiswa?",
