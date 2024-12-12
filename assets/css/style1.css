@@ -13,7 +13,7 @@ background: url("../img/bg5.gif") top right no-repeat;
 }
 body::after {
     display: flex;
-    content: "\00A9  kholis,faiz,bintang,yuli,fitri ";
+    content: "\00A9  Tugas-uas ";
     justify-content: center;
     align-items: center;
     color: white;
