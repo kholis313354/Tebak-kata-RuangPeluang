@@ -21,7 +21,7 @@ var jawaban = [
       "Apa istilah untuk daftar peluang seperti beasiswa, magang, dan lomba?",
       tersimpan: "Apa nama tempat di aplikasi untuk menyimpan peluang favorit?",
       Personalisasi: "Formulir apa yang digunakan untuk mengatur preferensi pengguna?",
-      Akun: "Apa yang diakses pengguna untuk mengatur informasi pribadi mereka?",
+      akun: "Apa yang diakses pengguna untuk mengatur informasi pribadi mereka?",
       deadline: "Notifikasi di Ruang Pintar ditujukan untuk mengingatkan pengguna tentang apa?",
       riwayat: "Apa istilah untuk rangkuman aktivitas yang sudah dilakukan pengguna?",
       kartu:
