@@ -6,7 +6,7 @@ var jawaban = [
     "UIUX",
     "paid",
     "apply",
-    "CV",
+    "cv",
     "kangparkir",
     "linkedIn",
     "kursus",
@@ -20,7 +20,7 @@ var jawaban = [
     UIUX: "Apa pekerjaan yang fokus pada desain pengalaman pengguna?",
     paid: "Jenis magang apa yang sering dicari mahasiswa?",
     apply: "Apa istilah untuk proses melamar pekerjaan secara online?",
-    CV: "Apa dokumen yang diperlukan untuk melamar pekerjaan?",
+    cv: "Apa dokumen yang diperlukan untuk melamar pekerjaan?",
     kangparkir:
       "siapa pendiri yang menjaga parkiran yang bayar nya 5ribu yang kembalian nya 2ribu,bilang nya gak ada receh 1ribu",
     linkedIn: "Apa nama aplikasi populer untuk mencari pekerjaan di Indonesia?",
