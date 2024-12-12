@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Tebak Kata - Bahasa Pemrograman</title>
+  <link rel="stylesheet" type="text/css" href="./assets/css/style.css">
+  <script src="https://code.jquery.com/jquery-3.6.4.min.js"></script>
+</head>
+<body>
+  <!-- backsound awal -->
+  <audio class="bgMusik" autoplay loop>
+    <source src="./assets/musik/musik1.weba" type="audio/webm">
+  </audio>
+  <!-- backsound akhir -->
+  <!-- loading awal-->
+  <div class="loading-container">
+    <div class="container2">
+      <div class="loader"></div>
+      <div class="loader"></div>
+      <div class="loader"></div>
+      <div class="loader"></div>
+      <div class="loader"></div>
+      <span class="loading3">Level 1</span>
+    </div>
+  </div>
+  <!-- loading akhir -->
+  <!-- game awal -->
+  <div class="game-container">
+    <h1>Game Tebak Kata</h1>
+    <span id="jawaban-benar">Jawaban Benar: 0(jawab benar 3x level selanjut nya)</span>
+    <div class="petunjuk-text" id="petunjuk-text"></div>
+    <div class="garis-display" id="garis-display"></div>
+    <input style="color: #000; background-color: #fff; " type="text" class="kholis-ganteng" id="kholis-ganteng" placeholder="Masukkan tebakan kata">
+    <br>
+    <button class="button" id="tebak-button">Tebak</button>
+    <button class="button" id="petunjuk-button">Petunjuk Huruf</button>
+    <button class="button-level" id="level-button" disabled>Level Selanjutnya</button>
+<!-- game akhir -->
+    <script src="./assets/js/loading.js"></script>
+    <script src="./assets/js/script.js"></script>
+</body>
+</html>
